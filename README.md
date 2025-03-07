@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://chat.whatsapp.com/GRIeuAnUgk54u2IL5ujUxJ">
-    <img alt=Support weight="10" src="https://telegra.ph/file/a8265ce43fbfcc43bffeb.jpg"> 
+    <img alt=Support weight="10" src="https://https://https://imgur.com/M6PwdIO"> 
     </p>
-<h1 align="center">ELITE-PRO-V2</h1>
+<h1 align="center">Tsuma-PB</h1>
 <p align="center"> 
     </p>
 <p align="center">
@@ -12,18 +12,18 @@
   <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a aria-label="Chat me" href="https://t.me/elitepro_md" target="_blank">
+<a aria-label="Chat me" href="https://t.me/tsumah.-" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Telegram Group-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
       
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+ELITE+PRO+V2+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+TSUMA+PB+MADE+BY;TSUMA;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
    
  ---
 
 ## DEPLOYMENT METHODS
 
-- Click on **[FORK](https://github.com/elite-md/Elite-Pro-V2/fork)**
+- Click on **[FORK](https://github.com/Tsumahhh/Tsuma-PB/fork)**
 - Click here to get **[SESSION_ID](https://elitepro-pairing-code.onrender.com/)**
 - Uploading session_id (Creds.json) in session folder.
 - Edit settings.js to your preference 
@@ -84,9 +84,9 @@ Paste this after the installation
 <p align="Left">
     <a align="center">
   <a aria-label="WEBSITE" href="https://elite-production.vercel.app" target="_blank">
-    <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
+    <img alt="TSUMA-PB-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
 </a>
-<a aria-label="NEW REPO" href="https://github.com/elite-md/ELITEPRO" target="_blank">
+<a aria-label="NEW REPO" href="https://github.com/Tsumahhh/Tsuma-PB" target="_blank">
     <img alt="OTHER REPO" src="https://img.shields.io/badge/NEW REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -94,7 +94,7 @@ Paste this after the installation
 ---
 
   ## DESCRIPTION
-I'm Elite-Pro a public WhatsApp bot with rich features Created by Chinwo Chinedu Emmanuel. Feel free to deploy my bot in any of the deployment site. 😜
+I'm Tsuma-PB a public WhatsApp bot with rich features made by Tsuma. Feel free to deploy my bot in any of the deployment site. 😜
 
  --- 
 - Star ⭐ repo if you like this bot.
