@@ -1,3 +1,3 @@
 {
-	"name"; "ELITE-PRO-V2 Multi Device"
+	"name"; "Tsuma-PB Multi Device"
 }
