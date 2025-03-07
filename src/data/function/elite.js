@@ -1,3 +1,3 @@
 {
-	"name"; "ELITE-PRO-V2 Bot Multi Device "
+	"name"; "Tsuma-PB Bot Multi Device "
 }
