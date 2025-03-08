@@ -12,7 +12,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "ElitePro",
+    "author": "Tsuma",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.2",
